@@ -1,0 +1,51 @@
+.show-info {
+  display: flex;
+  align-items: center; }
+
+.show-info .progress {
+  margin-right: 5px;
+  width: 100%; }
+
+.progress-container {
+  position: absolute;
+  width: 100%;
+  top: 0; }
+
+.leftList {
+  list-style: none;
+  float: left;
+  border-right: 1px solid #ccc;
+  overflow: scroll;
+  height: 97%;
+  scrollbar-arrow-color: #f4ae21; }
+  .leftList .leftul {
+    text-align: center;
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc; }
+
+.outside {
+  height: 100%; }
+
+.rightList {
+  list-style: none;
+  overflow: scroll;
+  height: 97%;
+  display: block;
+  margin-top: 5px; }
+  .rightList .innerlist {
+    list-style: none;
+    height: 100%;
+    background: #ccc; }
+    .rightList .innerlist .innerli {
+      width: 33%;
+      display: inline-block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+      .rightList .innerlist .innerli img {
+        width: 100%;
+        margin-top: 0; }
+      .rightList .innerlist .innerli p {
+        color: black; }

@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+*{
+	margin: 0;
+	padding: 0
+}
+html,body{height:100%;overflow: visible;}
+#root{
+
+	height:100%;
+}
+.hei{
+	height:95%;
+}

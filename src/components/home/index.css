@@ -1,0 +1,236 @@
+.app-content {
+  background: #f4f4f4;
+  position: absolute;
+  width: 100%;
+  margin-bottom: .7rem;
+  top: .7rem; }
+  .app-content .index-wrap .pull-refresh .swiper-container {
+    width: 100%; }
+    .app-content .index-wrap .pull-refresh .swiper-container .pull-to-refresh-layer {
+      height: 2px; }
+      .app-content .index-wrap .pull-refresh .swiper-container .pull-to-refresh-layer .am-pull-to-refresh {
+        height: 0px; }
+    .app-content .index-wrap .pull-refresh .swiper-container .max-slide .carousel {
+      height: 157px; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-slide .carousel div img {
+        width: 100%; }
+    .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav {
+      padding: 0 .05rem .05rem;
+      width: 100%;
+      background: #fff;
+      margin-bottom: .05rem; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav .clearfix {
+        width: 100%;
+        white-space: normal;
+        overflow: hidden; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav .clearfix li {
+          float: left;
+          width: 25%;
+          padding-top: .05rem;
+          position: relative; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav .clearfix li a {
+            border: .01rem solid #dadada;
+            width: .85rem;
+            padding: .1rem;
+            height: .65rem;
+            border-radius: .05rem;
+            box-shadow: 0 0 0.03rem #eee;
+            color: gray;
+            display: block;
+            text-align: center;
+            line-height: .25rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav .clearfix li a img {
+              width: .4rem;
+              padding-top: .05rem;
+              display: block;
+              margin: 0 auto;
+              position: relative; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-nav .clearfix li a span {
+              font-size: 12px;
+              color: #4d4d4d;
+              display: block;
+              width: 100%;
+              bottom: 0; }
+    .app-content .index-wrap .pull-refresh .swiper-container .max-index-ad img {
+      height: 162px;
+      width: 100%;
+      display: block; }
+    .app-content .index-wrap .pull-refresh .swiper-container .max-index-article {
+      background: #fff; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-title {
+        background: #fff;
+        float: left;
+        width: 2.26rem;
+        height: .75rem;
+        padding-right: .05rem;
+        position: relative;
+        top: 1.2rem; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-title img {
+          width: 100%;
+          display: block;
+          height: auto; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text {
+        overflow: hidden;
+        background: #fff;
+        height: 2rem;
+        margin-top: -1rem; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text .slider-frame {
+          margin-top: -80px; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text .my-carousel {
+          margin-top: .2rem;
+          margin-bottom: .2rem;
+          margin-left: .2rem;
+          overflow: hidden; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text .my-carousel .v-item {
+            padding-left: .2rem;
+            margin-top: 100px; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text .my-carousel .slider-list {
+            padding: 0 .2rem;
+            width: 100px; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .article-text .my-carousel .slider-list .slider-slide {
+              width: 50px;
+              font-size: .26rem; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou {
+        overflow: hidden;
+        background: #f4f4f3;
+        width: 100%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .dllist-space-carousel {
+          height: 7rem;
+          background: #fff; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .dllist-space-carousel .contentdl {
+            height: 1.5rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .dllist-space-carousel .contentdl dt {
+              height: 100%; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .dllist-space-carousel .contentdl dt img {
+                height: 100%; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .dllist-space-carousel .contentdl dd {
+              width: 100%;
+              height: 1rem; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-title {
+          padding-right: .5rem;
+          height: .7rem;
+          background: #fff;
+          line-height: .7rem;
+          margin-top: .2rem; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-title .intime {
+            display: inline-block;
+            float: left;
+            font-size: .28rem;
+            margin-left: .2rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-title .intime .iconfont {
+              margin-right: .2rem;
+              color: #f00; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-title .more {
+            display: inline-block;
+            float: right;
+            font-size: .2rem; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou ul {
+          height: 3rem;
+          background: #fff; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .goodshop-space-carousel {
+          font-size: .32rem; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .goodshop-space-carousel img {
+            width: 100%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel {
+          overflow: hidden; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel img {
+            height: 1.6rem; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel dl {
+            width: 25%; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel li {
+            text-align: center;
+            width: 100%;
+            height: 8rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel li dt {
+              width: 25% img;
+                width-width: 10%;
+                width-height: 50px;
+                width-margin-left: .2rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel li dd {
+              font-size: .18rem;
+              text-align: center; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel li dd .title {
+                display: block;
+                width: 1.9rem;
+                font-size: .18rem; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .index-qgou .space-carousel li dd .price {
+                text-align: center;
+                color: red; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .max-group {
+          margin-top: .2rem;
+          overflow: hidden; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .max-group img {
+            width: 50%;
+            float: left; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .max-group li:nth-of-type(1) img {
+            width: 100%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic3 li:nth-last-of-type(1) img {
+          width: 25%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic3 li:nth-last-of-type(2) img {
+          width: 25%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic3 li:nth-last-of-type(3) img {
+          width: 25%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic3 li:nth-last-of-type(4) img {
+          width: 25%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic4 img {
+          width: 25%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic4 li:nth-of-type(1) img {
+          width: 50%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic4 li:nth-of-type(2) img {
+          width: 50%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic5 li:nth-of-type(1) img {
+          width: 33%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-qgou .bluepic5 img {
+          width: 33%; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-ad {
+        width: 100%; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-ad img {
+          width: 100%; }
+      .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods {
+        background: #fff; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .more {
+          text-align: center;
+          line-height: 0.6rem;
+          display: block;
+          background: #ccc;
+          margin-bottom: .2rem; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .index-title {
+          font-size: .28rem;
+          margin-left: .2rem; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .index-title .iconfont {
+            margin-right: .2rem;
+            color: #f00; }
+        .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem {
+          border: .01rem solid #ccc;
+          box-sizing: border-box;
+          background: #fff;
+          width: 50%;
+          float: left;
+          height: 4.8rem; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-pic {
+            width: 100%; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-pic img {
+              width: 100%; }
+          .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info {
+            padding: .1rem; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info .goods-name {
+              width: 100%;
+              height: .7rem;
+              display: inline-block; }
+            .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info .btn-box {
+              height: 1rem;
+              position: relative; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info .btn-box .goods-price {
+                font-size: .28rem;
+                color: red;
+                display: inline-block;
+                margin-right: .2rem; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info .btn-box .mk-price {
+                text-decoration: line-through;
+                color: #CCC; }
+              .app-content .index-wrap .pull-refresh .swiper-container .max-index-article .max-index-goods .ndex-qgou .clearfix .goodsitem .goods-info .btn-box .num {
+                position: absolute;
+                bottom: 0;
+                padding: .1rem 0;
+                text-align: right;
+                color: #5e5e5e; }

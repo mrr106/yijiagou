@@ -1,0 +1,23 @@
+#footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  z-index: 99; }
+  #footer ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background: #fff;
+    height: .8rem;
+    line-height: .8rem; }
+    #footer ul li {
+      list-style: none;
+      width: 25%;
+      text-align: center;
+      font-size: .26rem; }
+      #footer ul li a {
+        color: #3e3e3e; }
+  #footer .active {
+    color: red; }

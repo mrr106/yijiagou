@@ -1,0 +1,143 @@
+.common-header{
+	position:fixed;
+	top:0;left:0;
+	height:.7rem;
+    overflow: hidden;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    left: 0;
+	.max-head{
+	height: 0.7rem;
+    background: #ff2832;
+    border: 0;
+    background-size: auto 100%;
+    overflow: hidden;
+    // z-index: 999;
+    width: 100%;
+    top: 0;
+    left: 0;
+     position: absolute;
+
+	.max-left-icon {
+    width: auto;
+    position: absolute;
+    width: 4 rem;
+    left: 0;
+    top: 0;
+			a{
+				line-height: .48rem;
+				text-align: left;
+				height: .48rem;
+				color: #fff;
+				white-space: nowrap;
+				padding-left: .1rem;
+				display: inline-block;
+				box-sizing: border-box;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				padding-right: .15rem;
+				font-size: .13rem;
+				max-width: 1.2 rem;
+				display: block;
+				margin-top: .1rem;
+			}
+		}
+		.text {
+			text-align: center;
+			margin-left: .9rem;
+			margin-right: .46rem;
+			font-size: .16rem;
+			color: #fff;
+			height: .7rem;
+			line-height: 1;
+			position: relative;
+			margin-top: .1rem;
+			form{
+				font-size: inherit;
+				margin: 0;
+				padding: 0;
+				border: 0;
+				outline: 0;
+				vertical-align: middle;
+				background: transparent;
+				list-style: none;
+				.search{
+					position: static;
+					padding: 0;
+					background: none;
+					display: block;
+					-webkit-box-pack: start;
+					height: .5rem;
+					// z-index: 99;
+					.key{
+						display: block;
+						position: relative;
+						text-align: left;
+						margin-left:.3rem;
+						width: 80%;
+						color: #ddd;
+						margin-top: .13rem;
+						line-height: .4rem;
+						border-radius: .03rem;
+						text-indent: 10px;
+						height: .4rem;
+						background: hsla(0,0%,100%,.2);
+						border: 0;
+						padding-left: .3rem;
+						font-size: .13rem;
+					}
+					.icon-sousuo{
+						width: .28rem;
+						height: .28rem;
+						margin: 0;
+						display: block;
+						text-indent: -1000px;
+						overflow: hidden;
+						position: absolute;
+						top: 0;
+						right:0;
+						z-index: 99;
+						border: 0;
+					}
+					.icon-saoyisao{
+						width: .28rem;
+						height: .28rem;
+						margin: 0;
+						display: block;
+						padding-right:.2rem;
+						// text-indent: -1000px;
+						overflow: hidden;
+						position: absolute;
+						right: .3rem;
+						top:0.08rem;
+						// z-index: 99;
+						border: 0;
+					}
+				}
+			}
+		}
+		.max-right-icon{
+			a{
+
+			text-align: center;
+			    padding-top: .1rem;
+			    line-height: .134rem;
+			    color: #fff;
+			    font-size: .08rem;
+			    position: absolute;
+			    top:.35rem;
+			    right:.1rem;
+			    border:1px solid #f00;
+			    display: block;
+			    height: .44rem;
+			}
+			.icon-wodefankui{
+				position:absolute;
+				top:.13rem;
+				right:.17rem;
+				color: #fff;
+			}
+		}
+	}
+}
